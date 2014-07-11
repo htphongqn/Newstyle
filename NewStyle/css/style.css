@@ -410,6 +410,8 @@ header h1 a img {
 
 .type+.type {
     margin-top: 11px;
+    height:210px;
+    overflow:hidden;
 }
 
 .type+.type+.type {
@@ -462,6 +464,8 @@ a.gal {
     display: block;
     border: 1px solid #ebeaea;
     border-right-width: 2px;
+    height:250px;
+    overflow:hidden;
 }
 
 a.gal img {
