@@ -88,7 +88,7 @@ h3 {
 
 .page1 h3 {
     margin-bottom: 46px;
-    padding-top: 82px;
+    padding-top: 24px;
 }
 
 .h3__ind1 {
@@ -278,7 +278,7 @@ header h1 a img {
 .banner {
     font-family: 'Roboto Condensed', sans-serif;
     background-color: #e5e5e7;
-    margin: 55px 0 87px;
+    margin: 24px 0 24px;
     overflow: hidden;
     position: relative;
     padding: 0 30px 24px 40px;
@@ -372,13 +372,13 @@ header h1 a img {
     padding-bottom: 113px;
 }
 .page1  .content {
-    padding-bottom: 82px;
+    padding-bottom: 24px;
 }
 
 .type {
     border: 1px solid #ebeaea;
     position: relative;
-    margin-top: 84px;
+    margin-top: 24px;
     display: block;
     font-family: 'Roboto Condensed', sans-serif;
 }
