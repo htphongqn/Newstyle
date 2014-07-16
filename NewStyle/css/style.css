@@ -454,7 +454,7 @@ header h1 a img {
 
 .gallery {
     overflow: hidden;
-    padding-top: 27px;
+    /*padding-top: 27px;*/
 }
 
 a.gal {
