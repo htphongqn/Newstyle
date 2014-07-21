@@ -96,7 +96,7 @@ header{padding-top:34px; min-height: 150px;}
 /*--- tabs end ---*/
 #address span{float:left;width:80px}
 /* ============================= footer ====================== */
-footer {padding:34px 0 38px 0;font-style:normal;color:#696969;text-align:center}
+footer {padding:4px 0 8px 0;font-style:normal;color:#696969;text-align:right}
 footer a{color:#fff}
 footer a:hover{}
 /* ============================= forms ============================= */
