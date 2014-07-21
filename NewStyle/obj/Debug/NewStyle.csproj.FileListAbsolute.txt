@@ -1,0 +1,10 @@
+E:\GithubProject\NewStyle\NewStyle\bin\NewStyle.dll
+E:\GithubProject\NewStyle\NewStyle\bin\NewStyle.pdb
+E:\GithubProject\NewStyle\NewStyle\obj\Debug\NewStyle.csprojResolveAssemblyReference.cache
+E:\GithubProject\NewStyle\NewStyle\obj\Debug\NewStyle.dll
+E:\GithubProject\NewStyle\NewStyle\obj\Debug\NewStyle.pdb
+E:\Game\GithubProject\Newstyle\NewStyle\bin\NewStyle.dll
+E:\Game\GithubProject\Newstyle\NewStyle\bin\NewStyle.pdb
+E:\Game\GithubProject\Newstyle\NewStyle\obj\Debug\NewStyle.csprojResolveAssemblyReference.cache
+E:\Game\GithubProject\Newstyle\NewStyle\obj\Debug\NewStyle.dll
+E:\Game\GithubProject\Newstyle\NewStyle\obj\Debug\NewStyle.pdb
