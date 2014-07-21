@@ -40,7 +40,7 @@ header{padding-top:34px; min-height: 150px;}
 #menu li {float:left;padding-left:51px}
 #menu li a{display:block;font:20px "Trebuchet MS", Arial, Helvetica, sans-serif;line-height:1.2em;color:#bbb;text-transform:uppercase;text-decoration:none;text-align:center;letter-spacing:-1px;height:79px;font-style:normal;font-weight:700}
 #menu li a span{font-size:13px;line-height:1.2em;color:#666666;display:block;letter-spacing:-1px;margin-top:-3px;font-weight:normal}
-#menu li a:hover, #menu .active a{color:#497e04}
+#menu li a:hover, #menu .active a{color:#C93032}
 #menu li a:hover span, #menu .active a span{color:#fff}
 #menu #nav1 a{background:url(../images/menu_icon1.gif) bottom center no-repeat}
 #menu #nav1 a:hover, #menu #nav1.active a{background:url(../images/menu_icon1_active.gif) bottom center no-repeat}
