@@ -106,7 +106,7 @@ footer a:hover{}
 #ContactForm .textarea_box{min-height:275px;width:100%;overflow:hidden;padding-bottom:6px}
 #ContactForm {}
 #ContactForm {}
-#ContactForm a{margin-right:15px; float:right;width:62px;font-style:normal;font-weight:bold;color:#fff;height:32px;line-height:32px;text-decoration:none;background:#60b000;text-align:center}
+#ContactForm a{margin-right:15px; float:right;width:62px;font-style:normal;font-weight:bold;color:#fff;height:32px;line-height:32px;text-decoration:none;background:#C93032;text-align:center}
 #ContactForm a:hover{background:#080808}
 #ContactForm .input {width:269px;height:18px;border:1px solid #e5e5e5;background:#fff;padding:3px 5px;color:#696968;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;font-style:italic;margin:0}
 #ContactForm textarea {overflow:auto;width:549px;height:258px;border:1px solid #e5e5e5;background:#fff;padding:3px 5px;color:#696968;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;font-style:italic;margin:0}
@@ -115,5 +115,5 @@ footer a:hover{}
 #newsletter .input:focus{color:#696969}
 #newsletter .wrapper{min-height:40px}
 #newsletter a{float:right;width:90px;height:32px;background:#fff;line-height:32px;color:#000;font-weight:bold;text-align:center;font-style:normal;text-decoration:none}
-#newsletter a:hover{background:#60b000;color:#fff}
+#newsletter a:hover{background:#C93032;color:#fff}
 #newsletter .button{float : left;}
