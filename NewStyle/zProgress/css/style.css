@@ -28,7 +28,7 @@ h3 span{display:block;margin-top:-7px}
 h3 .dropcap{float:left;width:56px;height:56px;margin-top:0px;margin-right:10px;background:url(../images/dropcap2.png) 0 0 no-repeat;font-size:38px;color:#fff;text-align:center;font-weight:700;line-height:1.2em;padding-top:6px}
 h4{font-size:26px;line-height:1.2em;color:#fff;font-weight:400;padding:43px 0 15px 0}
 h5{font-size:33px;color:#000;line-height:1.7em;padding:0 0 16px 0;font-weight:400;font-style:normal}
-h5 .dropcap{float:left;width:56px;height:56px;margin-top:0px;margin-right:10px;background:url(../images/dropcap1.gif) 0 0 no-repeat;color:#fff;text-align:center}
+h5 .dropcap{float:left;width:56px;height:56px;margin-top:0px;margin-right:10px;background:url(../images/dropcap2.png) 0 0 no-repeat;color:#fff;text-align:center}
 h5 .dropcap strong{font-weight:700;font-size:34px;line-height:1.2em;display:block;padding-top:3px;letter-spacing:-2px}
 h5 .dropcap span{font-weight:400;font-size:14px;line-height:1.2em;display:block;margin-top:-8px}
 h6{font-size:20px;line-height:1.2em;color:#000;padding:0 0 5px 0;font-style:normal;font-weight:400}
@@ -89,7 +89,7 @@ header{padding-top:34px; min-height: 150px;}
 .tabs {}
 .tabs ul.nav {float:left; padding-bottom:24px; padding-left: 10px;}
 .tabs ul.nav li{padding-right:1px;float:left}
-.tabs ul.nav li a{display:block;position:relative;width:32px;height:32px;font-size:19px;color:#fff;line-height:32px;background:#60b000;text-decoration:none;text-align:center}
+.tabs ul.nav li a{display:block;position:relative;width:32px;height:32px;font-size:19px;color:#fff;line-height:32px;background:#C93032;text-decoration:none;text-align:center}
 .tabs ul.nav .selected a, .tabs ul.nav  a:hover{background:#696969}
 .tabs .tab-content {display:none}
 .tab-content{margin : 10px;}
