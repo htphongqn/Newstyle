@@ -53,7 +53,7 @@ header{padding-top:0px; min-height: 120px;}
 #menu #nav4 a:hover, #menu #nav4.active a{background:url(../images/menu_icon4_active.gif) bottom center no-repeat}
 #menu #nav5 a{background:url(../images/menu_icon5.gif) bottom center no-repeat}
 #menu #nav5 a:hover, #menu #nav5.active a{background:url(../images/menu_icon5_active.gif) bottom center no-repeat}
-.slider{margin-top: 5px; height:423px;}
+.slider{margin-top: 10px; height:423px;}
 /* ============================= content ====================== */
 #content{padding-top:50px;padding-bottom:36px}
 #content2{/*padding-bottom:50px*/}
