@@ -9,7 +9,7 @@
 
 
 /*======= index.html =======*/
-#page1 .body2{ /*background:url(../images/bg_slider2.png) bottom center repeat-x*/}
+#page1 .body2{background:url(../images/bg.png) 0 0 repeat /*background:url(../images/bg_slider2.png) bottom center repeat-x*/}
 #page1 header{}
 /*======= index-1.html =======*/
 /*======= index-2.html =======*/
