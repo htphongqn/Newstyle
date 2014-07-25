@@ -36,8 +36,8 @@ h6{font-size:20px;line-height:1.2em;color:#000;padding:0 0 5px 0;font-style:norm
 p{padding-bottom:22px}
 /* ============================= header ====================== */
 header{padding-top:0px; min-height: 150px;}
-#logo{display:block; margin-left:10px;}
-#menu {float:right;padding-top:15px}
+#logo{display:block; padding-top:10px;}
+#menu {float:right;padding-top:10px}
 #menu li {float:left;padding-left:51px}
 #menu li a{display:block;font:20px "Trebuchet MS", Arial, Helvetica, sans-serif;line-height:1.2em;color:white;text-transform:uppercase;text-decoration:none;text-align:center;letter-spacing:-1px;height:79px;font-style:normal;font-weight:700}
 #menu li a span{font-size:13px;line-height:1.2em;color:#666666;display:block;letter-spacing:-1px;margin-top:-3px;font-weight:normal}
