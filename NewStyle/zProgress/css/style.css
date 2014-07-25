@@ -24,6 +24,11 @@ body{background:white;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-
 /*.body4{background:url(../images/bg.jpg) top center repeat}*/
 .body5{/*background:url(../images/bg_top_img2.jpg) center bottom no-repeat*/}
 .body4{background:url(../images/fatfooter-bg.png) 0 -6px repeat-x;/*background:url(../images/bg.jpg) top center repeat*/}
+.border1 {
+    height:15px;
+    background-color:#CCC;
+    clear:both;
+}
 /* Global Structure ============================================================= */
 .main {margin:0 auto;/*width:940px*/}
 /* ============================= main layout ====================== */
@@ -62,9 +67,9 @@ header{padding-top:0px; min-height: 120px;}
 #menu #nav4 a:hover, #menu #nav4.active a{background:url(../images/menu_icon4_active.gif) bottom center no-repeat}
 #menu #nav5 a{background:url(../images/menu_icon5.gif) bottom center no-repeat}
 #menu #nav5 a:hover, #menu #nav5.active a{background:url(../images/menu_icon5_active.gif) bottom center no-repeat}
-.slider{margin-top: 10px; height:423px;}
+.slider{margin-top: 0px; height:423px;}
 /* ============================= content ====================== */
-#content{padding-top:50px;padding-bottom:36px}
+#content{padding-top:35px;padding-bottom:36px}
 #content2{padding-bottom:50px}
 .pad_left1{padding-left:50px}
 .pad_left2{padding-left:40px}
