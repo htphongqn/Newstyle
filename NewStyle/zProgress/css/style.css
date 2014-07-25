@@ -6,15 +6,14 @@ mark, rp, rt, ruby, summary, time{display:inline }
 .right {float:right}
 .wrapper {width:100%;overflow:hidden}
 /* Global properties ======================================================== */
-body{background:white;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#696969;line-height:22px;font-style:italic}
+body{background:#000;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;color:#696969;line-height:22px;font-style:italic}
 .ic, .ic a {border:0;float:right;background:#fff;color:#f00;width:50%;line-height:10px;font-size:10px;margin:-220% 0 0 0;overflow:hidden;padding:0}
 .css3{border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;box-shadow:0 0 4px rgba(0, 0, 0, .4);-moz-box-shadow:0 0 4px rgba(0, 0, 0, .4);-webkit-box-shadow:0 0 4px rgba(0, 0, 0, .4);position:relative}
 .body1{ background:url(../images/bg_for_banner.png) top repeat-x; background-size:60%;/*background:url(../images/bg1.jpg) top repeat-x;*/ /*background-color:#178fbe*/}
-.body2{/*background:url(../images/bg_top1.gif) bottom repeat-x*/}
+.body2{background:url(../images/bg_top1.gif) bottom repeat-x}
 .body3{background:#fff}
-/*.body4{background:url(../images/bg.jpg) top center repeat}*/
-.body5{/*background:url(../images/bg_top_img2.jpg) center bottom no-repeat*/}
 .body4{background:url(../images/fatfooter-bg.png) 0 -6px repeat-x;/*background:url(../images/bg.jpg) top center repeat*/}
+.body5{background:url(../images/bg_top_img2.jpg) center bottom no-repeat}
 /* Global Structure ============================================================= */
 .main {margin:0 auto;/*width:940px*/}
 /* ============================= main layout ====================== */
@@ -35,9 +34,9 @@ h5 .dropcap span{font-weight:400;font-size:14px;line-height:1.2em;display:block;
 h6{font-size:20px;line-height:1.2em;color:#000;padding:0 0 5px 0;font-style:normal;font-weight:400}
 p{padding-bottom:22px}
 /* ============================= header ====================== */
-header{padding-top:0px; min-height: 120px;}
-#logo{display:block; padding-top:10px;}
-#menu {float:right;padding-top:10px}
+header{padding-top:34px; min-height: 150px;}
+#logo{display:block; margin-left:10px;}
+#menu {float:right;padding-top:15px}
 #menu li {float:left;padding-left:51px}
 #menu li a{display:block;font:20px "Trebuchet MS", Arial, Helvetica, sans-serif;line-height:1.2em;color:white;text-transform:uppercase;text-decoration:none;text-align:center;letter-spacing:-1px;height:79px;font-style:normal;font-weight:700}
 #menu li a span{font-size:13px;line-height:1.2em;color:#666666;display:block;letter-spacing:-1px;margin-top:-3px;font-weight:normal}
@@ -53,10 +52,10 @@ header{padding-top:0px; min-height: 120px;}
 #menu #nav4 a:hover, #menu #nav4.active a{background:url(../images/menu_icon4_active.gif) bottom center no-repeat}
 #menu #nav5 a{background:url(../images/menu_icon5.gif) bottom center no-repeat}
 #menu #nav5 a:hover, #menu #nav5.active a{background:url(../images/menu_icon5_active.gif) bottom center no-repeat}
-.slider{margin-top: 10px; height:423px;}
+.slider{margin-top: 30px; height:423px;}
 /* ============================= content ====================== */
 #content{padding-top:50px;padding-bottom:36px}
-#content2{/*padding-bottom:50px*/}
+#content2{padding-bottom:50px}
 .pad_left1{padding-left:50px}
 .pad_left2{padding-left:40px}
 .pad_bot1{padding-bottom:8px}
@@ -99,7 +98,7 @@ header{padding-top:0px; min-height: 120px;}
 #address span{float:left;width:80px}
 /* ============================= footer ====================== */
 footer {padding:4px 0 8px 0;font-style:normal;color:#696969;text-align:right}
-footer a{color:#696969}
+footer a{color:#fff}
 footer a:hover{}
 /* ============================= forms ============================= */
 #ContactForm {margin-top:-4px}
@@ -116,6 +115,6 @@ footer a:hover{}
 #newsletter .input{background:#fff;padding:6px 18px;width:184px;height:18px;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;font-style:inherit;color:#b4b4b4;margin:0}
 #newsletter .input:focus{color:#696969}
 #newsletter .wrapper{min-height:40px}
-#newsletter a{float:right;width:90px;height:32px;background:#C93032;line-height:32px;color:#fff;font-weight:bold;text-align:center;font-style:normal;text-decoration:none}
-#newsletter a:hover{background:#696969;color:#fff}
+#newsletter a{float:right;width:90px;height:32px;background:#696969;line-height:32px;color:#fff;font-weight:bold;text-align:center;font-style:normal;text-decoration:none}
+#newsletter a:hover{background:#C93032;color:#fff}
 #newsletter .button{float : left;}
