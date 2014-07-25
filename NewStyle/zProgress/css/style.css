@@ -27,11 +27,6 @@ body{background:#000;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-s
 /* Global Structure ============================================================= */
 .main {margin:0 auto;/*width:940px*/}
 /* ============================= main layout ====================== */
-/*Middle content*/
-.Middle {
-    background: url(../images/fatfooter-bg2.png) 0 -6px repeat;
-}
-/*End Middle*/
 a{color:#696969;text-decoration:underline;outline:none}
 a:hover{text-decoration:none}
 h1{float:left}
@@ -73,7 +68,7 @@ header{padding-top:34px; min-height: 150px;}
 .slider{margin-top: 0px; height:423px;z-index:0;}
 /* ============================= content ====================== */
 #content{padding-top:50px;padding-bottom:36px}
-#content2{/*padding-bottom:50px*/}
+#content2{padding-bottom:50px}
 .pad_left1{padding-left:50px}
 .pad_left2{padding-left:40px}
 .pad_bot1{padding-bottom:8px}
