@@ -109,7 +109,8 @@ header{padding-top:0px; min-height: 120px;}
 .tabs ul.nav li a{display:block;position:relative;width:32px;height:32px;font-size:19px;color:#fff;line-height:32px;background:#C93032;text-decoration:none;text-align:center}
 .tabs ul.nav .selected a, .tabs ul.nav  a:hover{background:#696969}
 .tabs .tab-content {display:none}
-.tab-content{margin : 10px;}
+.tab-content{margin : 0px;}
+.tab-content .item {margin:5px; padding:10px; border:1px solid #FFFFFF; -webkit-border-radius:5px; -moz-border-radius:5px; border-radius:5px; background:#E9E0F9;}
 /*--- tabs end ---*/
 #address span{float:left;width:80px}
 /* ============================= footer ====================== */
