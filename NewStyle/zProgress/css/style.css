@@ -12,20 +12,22 @@ body{background:white;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-
 .body1{/*background:url(../images/bg_for_banner.png) top repeat-x; background-size:60%;*/
     display: block;
     box-sizing: border-box;
-    background-color: #4b7937;
+    background-color:#E6E6E6;
+    /*background-color: #4b7937;
     background: -webkit-gradient(linear,100% 50%,0% 50%,color-stop(0%,#4b7937),color-stop(100%,#78ba42));
     background: -webkit-linear-gradient(top,#4b7937 0,#78ba42 100%);
     background: -moz-linear-gradient(top,#4b7937 0,#78ba42 100%);
     background: -o-linear-gradient(top,#4b7937 0,#78ba42 100%);
     background: linear-gradient(top,#4b7937 0,#78ba42 100%);
-    background: -ms-linear-gradient(top,#4b7937 0,#78ba42 100%);}
+    background: -ms-linear-gradient(top,#4b7937 0,#78ba42 100%);*/}
 .body2{/*background:url(../images/bg.png) 0 0 repeat*//*background:url(../images/bg_top1.gif) bottom repeat-x*/}
 .body3{background:url(../images/bg.png) 0 0 repeat/*background:#fff*/}
 /*.body4{background:url(../images/bg.jpg) top center repeat}*/
 .body5{/*background:url(../images/bg_top_img2.jpg) center bottom no-repeat*/}
 .body4{background:#000;/*background:url(../images/fatfooter-bg.png) 0 -6px repeat-x;*//*background:url(../images/bg.jpg) top center repeat*/}
 .border1 {
-    background-color:#3e6b33;
+    /*background-color:#3e6b33;*/
+    background-color:#E6E6E6;
     clear:both;
 }
 .border2 {
@@ -54,9 +56,9 @@ h5 .dropcap span{font-weight:400;font-size:14px;line-height:1.2em;display:block;
 h6{font-size:20px;line-height:1.2em;color:#000;padding:0 0 5px 0;font-style:normal;font-weight:400}
 p{padding-bottom:22px}
 /* ============================= header ====================== */
-header{padding-top:0px; min-height: 120px;}
+header{padding-top:0px; min-height: 120px;background:url(../images/bg_top.png) no-repeat}
 #logo{display:block; padding-top:10px;}
-#menu {float:right;padding-top:20px;}
+#menu {float:right;padding-top:20px;margin-right:25px}
 #menu li {float:left;padding-left:51px}
 #menu li a{display:block;font:20px "Trebuchet MS", Arial, Helvetica, sans-serif;line-height:1.2em;color:white;text-transform:uppercase;text-decoration:none;text-align:center;letter-spacing:-1px;height:44px;font-style:normal;font-weight:700;padding-top:35px}
 #menu li a span{font-size:13px;line-height:1.2em;color:#666666;display:block;letter-spacing:-1px;margin-top:-3px;font-weight:normal}
