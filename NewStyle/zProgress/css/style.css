@@ -25,9 +25,12 @@ body{background:white;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-
 .body5{/*background:url(../images/bg_top_img2.jpg) center bottom no-repeat*/}
 .body4{background:#ccc;/*background:url(../images/fatfooter-bg.png) 0 -6px repeat-x;*//*background:url(../images/bg.jpg) top center repeat*/}
 .border1 {
-    height:4px;
-    background-color:#507e39;
-    /*background:url(../images/bg_top1.gif) repeat-x;*/
+    background-color:#3e6b33;
+    clear:both;
+}
+.border2 {
+    height:10px;
+    background:url(../images/border_top.png) no-repeat;
     clear:both;
 }
 /* Global Structure ============================================================= */
