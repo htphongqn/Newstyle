@@ -26,8 +26,8 @@ body{background:white;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-
 .body4{background:#ccc;/*background:url(../images/fatfooter-bg.png) 0 -6px repeat-x;*//*background:url(../images/bg.jpg) top center repeat*/}
 .border1 {
     height:4px;
-    background-color:#CCC;
-    background:url(../images/bg_top1.gif) repeat-x;
+    background-color:#507e39;
+    /*background:url(../images/bg_top1.gif) repeat-x;*/
     clear:both;
 }
 /* Global Structure ============================================================= */
