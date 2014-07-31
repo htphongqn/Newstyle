@@ -23,7 +23,7 @@ body{background:white;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-
 .body3{background:url(../images/bg.png) 0 0 repeat/*background:#fff*/}
 /*.body4{background:url(../images/bg.jpg) top center repeat}*/
 .body5{/*background:url(../images/bg_top_img2.jpg) center bottom no-repeat*/}
-.body4{background:#ccc;/*background:url(../images/fatfooter-bg.png) 0 -6px repeat-x;*//*background:url(../images/bg.jpg) top center repeat*/}
+.body4{background:#000;/*background:url(../images/fatfooter-bg.png) 0 -6px repeat-x;*//*background:url(../images/bg.jpg) top center repeat*/}
 .border1 {
     background-color:#3e6b33;
     clear:both;
