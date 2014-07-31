@@ -43,7 +43,7 @@ h3 span{display:block;margin-top:-7px}
 h3 .text{display:block;padding-top:10px}
 * + html h3 span{margin-top:-25px}
 h3 .dropcap{float:left;width:56px;height:56px;margin-top:0px;margin-right:10px;background:url(../images/dropcap5.png) 0 0 no-repeat;font-size:38px;color:#fff;text-align:center;font-weight:700;line-height:1.2em;padding-top:6px}
-h4{font-size:26px;line-height:1.2em;color:#C93032;font-weight:400;padding:43px 0 15px 0}
+h4{font-size:26px;line-height:1.2em;color:#f99b1f;font-weight:400;padding:43px 0 15px 0}
 h5{font-size:33px;color:#000;line-height:1.7em;padding:0 0 16px 0;font-weight:400;font-style:normal}
 h5 .dropcap{float:left;width:56px;height:56px;margin-top:0px;margin-right:10px;background:url(../images/dropcap5.png) 0 0 no-repeat;color:#fff;text-align:center}
 h5 .dropcap strong{font-weight:700;font-size:34px;line-height:1.2em;display:block;padding-top:3px;letter-spacing:-2px}
@@ -57,7 +57,7 @@ header{padding-top:0px; min-height: 120px;}
 #menu li {float:left;padding-left:51px}
 #menu li a{display:block;font:20px "Trebuchet MS", Arial, Helvetica, sans-serif;line-height:1.2em;color:white;text-transform:uppercase;text-decoration:none;text-align:center;letter-spacing:-1px;height:44px;font-style:normal;font-weight:700;padding-top:35px}
 #menu li a span{font-size:13px;line-height:1.2em;color:#666666;display:block;letter-spacing:-1px;margin-top:-3px;font-weight:normal}
-#menu li a:hover, #menu .active a{color:#C93032}
+#menu li a:hover, #menu .active a{color:#f99b1f/*color:#C93032*/}
 #menu li a:hover span, #menu .active a span{color:#fff}
 #menu #nav1 a{background:url(../images/menu_icon1.gif) top center no-repeat}
 #menu #nav1 a:hover, #menu #nav1.active a{background:url(../images/menu_icon1_active.gif) top center no-repeat}
@@ -78,7 +78,7 @@ header{padding-top:0px; min-height: 120px;}
 .pad_bot1{padding-bottom:8px}
 .pad_bot2{padding-bottom:40px}
 .marg_right1{margin-right:20px}
-.link1{color:#C93032;font-style:normal}
+.link1{color:#f99b1f;font-style:normal}
 .testimonials{width:100%;position:relative;z-index:1;height:210px;overflow:hidden}
 #testimonials div{background:url(../images/bg_testimonials.gif) 0 bottom no-repeat #f5f5f5;padding:25px 27px 53px 29px}
 #testimonials span{display:block;padding:0 0 0 11px;font-style:normal}
@@ -88,26 +88,26 @@ header{padding-top:0px; min-height: 120px;}
 .down{background:url(../images/marker_down2.gif) 0 0 no-repeat}
 .up:hover, .down:hover{background-position:bottom}
 .color1{color:#000}
-.color2{color:#C93032/*#60b000*/}
+.color2{color:#f99b1f/*#60b000*/}
 .list1{background:url(../images/line_hor1.png) 10px 0 no-repeat;padding-top:1px}
 .list1 li{background:url(../images/line_hor1.png) 10px bottom no-repeat;line-height:29px}
 .list1 a{color:#696969;text-decoration:none;font-style:normal;padding-left:14px;background:url(../images/marker_1.gif) 0 6px no-repeat}
-.list1 a:hover{color:#C93032;/*color:#fff*/}
+.list1 a:hover{color:#f99b1f;/*color:#fff*/}
 .address{background:url(../images/line_hor1.png) 0px 0 no-repeat;padding-top:1px}
 .address li{background:url(../images/line_hor1.png) 0px bottom no-repeat;line-height:29px;font-style:normal}
 .address span{padding-left:4px;float:left;width:62px}
-.address a{color:#fff}
+.address a{color:#f99b1f}
 #icons{background:url(../images/line_hor1.png) 23px 0 no-repeat;padding-top:1px}
 #icons li{background:url(../images/line_hor1.png) 23px bottom no-repeat;line-height:29px}
 #icons a{color:#696969;text-decoration:none;font-style:normal;display:inline-block}
 #icons img{float:left;margin-right:9px;margin-top:5px}
-#icons a:hover{color:#C93032;/*color:#fff*/}
+#icons a:hover{color:#f99b1f;/*color:#fff*/}
 /*--- tabs begin ---*/
 .tabs {}
 .tabs img{width:150px}
 .tabs ul.nav {float:left; padding-bottom:24px; padding-left: 10px;}
 .tabs ul.nav li{padding-right:1px;float:left}
-.tabs ul.nav li a{display:block;position:relative;width:32px;height:32px;font-size:19px;color:#fff;line-height:32px;background:#C93032;text-decoration:none;text-align:center}
+.tabs ul.nav li a{display:block;position:relative;width:32px;height:32px;font-size:19px;color:#fff;line-height:32px;background:#f99b1f;text-decoration:none;text-align:center}
 .tabs ul.nav .selected a, .tabs ul.nav  a:hover{background:#696969}
 .tabs .tab-content {display:none}
 .tab-content{margin : 0px;}
@@ -125,7 +125,7 @@ footer a:hover{}
 #ContactForm .textarea_box{min-height:275px;width:100%;overflow:hidden;padding-bottom:6px}
 #ContactForm {}
 #ContactForm {}
-#ContactForm a{margin-right:15px; float:right;width:62px;font-style:normal;font-weight:bold;color:#fff;height:32px;line-height:32px;text-decoration:none;background:#C93032;text-align:center}
+#ContactForm a{margin-right:15px; float:right;width:62px;font-style:normal;font-weight:bold;color:#fff;height:32px;line-height:32px;text-decoration:none;background:#f99b1f;text-align:center}
 #ContactForm a:hover{background:#080808}
 #ContactForm .input {width:269px;height:18px;border:1px solid #e5e5e5;background:#fff;padding:3px 5px;color:#696968;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;font-style:italic;margin:0}
 #ContactForm textarea {overflow:auto;width:549px;height:258px;border:1px solid #e5e5e5;background:#fff;padding:3px 5px;color:#696968;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;font-style:italic;margin:0}
@@ -133,6 +133,6 @@ footer a:hover{}
 #newsletter .input{background:#fff;padding:6px 18px;width:184px;height:18px;font:14px "Trebuchet MS", Arial, Helvetica, sans-serif;font-style:inherit;color:#b4b4b4;margin:0}
 #newsletter .input:focus{color:#696969}
 #newsletter .wrapper{min-height:40px}
-#newsletter a{float:right;width:90px;height:32px;background:#C93032;line-height:32px;color:#fff;font-weight:bold;text-align:center;font-style:normal;text-decoration:none}
+#newsletter a{float:right;width:90px;height:32px;background:#f99b1f;line-height:32px;color:#fff;font-weight:bold;text-align:center;font-style:normal;text-decoration:none}
 #newsletter a:hover{background:#696969;color:#fff}
 #newsletter .button{float : left;}
