@@ -12,13 +12,13 @@ body{background:white;border:0;font:14px "Trebuchet MS", Arial, Helvetica, sans-
 .body1{/*background:url(../images/bg_for_banner.png) top repeat-x; background-size:60%;*/
     display: block;
     box-sizing: border-box;
-    background-color: #3c6aa1;
-    background: -webkit-gradient(linear,100% 50%,0% 50%,color-stop(0%,#4d80af),color-stop(100%,#2b5593));
-    background: -webkit-linear-gradient(top,#4d80af 0,#2b5593 100%);
-    background: -moz-linear-gradient(top,#4d80af 0,#2b5593 100%);
-    background: -o-linear-gradient(top,#4d80af 0,#2b5593 100%);
-    background: linear-gradient(top,#4d80af 0,#2b5593 100%);
-    background: -ms-linear-gradient(top,#4d80af 0,#2b5593 100%);}
+    background-color: #4b7937;
+    background: -webkit-gradient(linear,100% 50%,0% 50%,color-stop(0%,#78ba42),color-stop(100%,#4b7937));
+    background: -webkit-linear-gradient(top,#78ba42 0,#4b7937 100%);
+    background: -moz-linear-gradient(top,#78ba42 0,#4b7937 100%);
+    background: -o-linear-gradient(top,#78ba42 0,#4b7937 100%);
+    background: linear-gradient(top,#78ba42 0,#4b7937 100%);
+    background: -ms-linear-gradient(top,#78ba42 0,#4b7937 100%);}
 .body2{/*background:url(../images/bg.png) 0 0 repeat*//*background:url(../images/bg_top1.gif) bottom repeat-x*/}
 .body3{background:url(../images/bg.png) 0 0 repeat/*background:#fff*/}
 /*.body4{background:url(../images/bg.jpg) top center repeat}*/
