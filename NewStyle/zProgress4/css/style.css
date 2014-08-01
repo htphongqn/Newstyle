@@ -59,19 +59,37 @@ p{padding-bottom:22px}
 header{padding-top:0px; min-height: 120px;background:url(../images/bg_top.png) 100px 0px no-repeat}
 #logo{display:block; padding-top:10px;}
 #menu {float:right;padding-top:20px;margin-right:25px}
-#menu li {float:left;padding-left:51px}
+#menu li {float:left;margin:0px 20px 0px 20px; padding:0px 5px 0px 5px;/*padding-left:51px*/}
 #menu li a{display:block;font:20px "Trebuchet MS", Arial, Helvetica, sans-serif;line-height:1.2em;color:white;text-transform:uppercase;text-decoration:none;text-align:center;letter-spacing:-1px;height:44px;font-style:normal;font-weight:700;padding-top:35px}
 #menu li a span{font-size:13px;line-height:1.2em;color:#666666;display:block;letter-spacing:-1px;margin-top:-3px;font-weight:normal}
 #menu li a:hover, #menu .active a{color:#f99b1f/*color:#C93032*/}
 #menu li a:hover span, #menu .active a span{color:#fff}
+    #menu #nav1 {
+        background:#e5e5e5;
+    }
+    #menu #nav1:hover {
+        background:#f00;
+    }
 #menu #nav1 a{background:url(../images/menu_icon1.gif) top center no-repeat}
 #menu #nav1 a:hover, #menu #nav1.active a{background:url(../images/menu_icon1_active.gif) top center no-repeat}
+    #menu #nav2 {
+        background:#f00;
+    }
 #menu #nav2 a{background:url(../images/menu_icon2.gif) top center no-repeat}
 #menu #nav2 a:hover, #menu #nav2.active a{background:url(../images/menu_icon2_active.gif) top center no-repeat}
+    #menu #nav3 {
+        background: #ffd800;
+    }
 #menu #nav3 a{background:url(../images/menu_icon3.gif) top center no-repeat}
 #menu #nav3 a:hover, #menu #nav3.active a{background:url(../images/menu_icon3_active.gif) top center no-repeat}
+    #menu #nav4 {
+        background: #b6ff00;
+    }
 #menu #nav4 a{background:url(../images/menu_icon4.gif) top center no-repeat}
 #menu #nav4 a:hover, #menu #nav4.active a{background:url(../images/menu_icon4_active.gif) top center no-repeat}
+    #menu #nav5 {
+        background: #0ff;
+    }
 #menu #nav5 a{background:url(../images/menu_icon5.gif) top center no-repeat}
 #menu #nav5 a:hover, #menu #nav5.active a{background:url(../images/menu_icon5_active.gif) top center no-repeat}
 .slider{margin-top: 0px; height:423px;}
