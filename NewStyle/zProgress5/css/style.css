@@ -54,7 +54,11 @@ h5 .dropcap{float:left;width:56px;height:56px;margin-top:0px;margin-right:10px;b
 h5 .dropcap strong{font-weight:700;font-size:34px;line-height:1.2em;display:block;padding-top:3px;letter-spacing:-2px}
 h5 .dropcap span{font-weight:400;font-size:14px;line-height:1.2em;display:block;margin-top:-8px}
 h6{font-size:20px;line-height:1.2em;color:#000;padding:0 0 5px 0;font-style:normal;font-weight:400}
-p{padding-bottom:22px}
+p{padding-bottom:22px;}
+
+.pWhite {
+    color: white;
+}
 /* ============================= header ====================== */
 header{padding-top:0px; min-height: 120px;/*background:url(../images/bg_top6.png) 100px 0px no-repeat*/}
 #logo{display:block; padding-top:10px;}
